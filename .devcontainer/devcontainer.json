@@ -13,7 +13,11 @@
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"dbaeumer.vscode-eslint",
-		"mongodb.mongodb-vscode" 
+		"mongodb.mongodb-vscode",
+		"firsttris.vscode-jest-runner",
+		"esbenp.prettier-vscode",
+		"nrwl.angular-console",
+		"ms-vscode-remote.remote-containers"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
